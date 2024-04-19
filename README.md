@@ -21,9 +21,9 @@ Diseñar una solución que permita a los alumnos usuarios de Microsoft Teams org
 
 ## Propuesta de valor
 Dentro de nuestra propuesta, presentamos las siguientes funcionalidades:
-- Organización de tareas: Crear una lista de tareas autónoma que organice muestre las tareas con mayor nivel de reelevancia a cumplir.
-- Planeación de actividades: Crear un calendario autónomo que utilice la API de Microsoft Teams para obtener las fechas de las asignaciones y jerarquizarlas según la fecha de entrega.
-- Panel de control de notificaciones: Crear un panel que muestre las últimas notificaciones recibidas por el estudiante en Microsoft Teams.
+- **Organización de tareas:** Crear una lista de tareas autónoma que organice muestre las tareas con mayor nivel de reelevancia a cumplir.
+- **Planeación de actividades:** Crear un calendario autónomo que utilice la API de Microsoft Teams para obtener las fechas de las asignaciones y jerarquizarlas según la fecha de entrega.
+- **Panel de control de notificaciones:** Crear un panel que muestre las últimas notificaciones recibidas por el estudiante en Microsoft Teams.
 
 ## Integraciones
 Además de utilizar la API de Notion, estamos utilizando las siguientes integraciones:
@@ -35,9 +35,4 @@ Además de utilizar la API de Notion, estamos utilizando las siguientes integrac
 
 ## Planteamientos a futuro
 Como posibles formas de expandir nuestro proyecto a futuro, presentamos las siguientes propuestas:
-<<<<<<< HEAD
-- Recomendar material de estudio: Utilizar un algoritmo que busque palabras clave y con base en ellas, cree recomendaciones para expandir el conocimiento del usuario
-=======
 - **Recomendar material de estudio:** Utilizar un algoritmo que busque palabras clave y con base en ellas, cree recomendaciones para expandir el conocimiento del usuario
- 
->>>>>>> ca85f38c69664144a007d0a7515d48996da1fc72
