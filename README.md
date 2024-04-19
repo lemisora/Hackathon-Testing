@@ -18,7 +18,7 @@ Los estudiantes carecen de una organización efectiva lo que les dificulta el pr
 Durante nuestra vida académica, es importante llevar un orden adecuado que fomente nuestro desarrollo y nos guíe a un aprendizaje integral. Actualmente, los estudiantes estamos constantemente en contacto con diferentes herramientas tecnológicas para la realización de nuestras tareas, mismas que pueden llegar a abrumarnos si carecemos de un sistema efectivo de jerarquización y gestión. Es por ello, que proponemos una solución tecnológica que se integre a Notion con el objetivo de facilitar a los estudiantes la organización de sus asignaciones.
 
 ## Objetivo
-Diseñar una solución que permita a los alumnos usuarios de Microsoft Teams organizar, jerarquizar y gestionar sus asignaciones. 
+Diseñar una solución que permita a los alumnos usuarios de Microsoft Teams organizar, jerarquizar y gestionar sus asignaciones de manera eficinte. 
 
 ## Propuesta de valor
 Dentro de nuestra propuesta, presentamos las siguientes funcionalidades:
