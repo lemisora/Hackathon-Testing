@@ -21,7 +21,7 @@ Dentro de nuestra propuesta, presentamos las siguientes funcionalidades:
 - **Panel de control de notificaciones:** Crear un panel que muestre las últimas notificaciones recibidas por el estudiante en Microsoft Teams.
 ## Integraciones
 Además de utilizar la API de Notion, estamos utilizando las siguientes integraciones:
-- **Integración con Teams:** Obtiene las asignaciones del estudiante automáticamente, informando al usuario la fecha de entrega
+- **Integración con Teams:** Obtiene las asignaciones del estudiante automáticamente para obtener su fecha de entrega, además, gestiona las notificaciones recibidas por el usuario.
 
 ## Planteamientos a futuro
 Como posibles formas de expandir nuestro proyecto a futuro, presentamos las siguientes propuestas:
