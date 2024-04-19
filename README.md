@@ -1,6 +1,6 @@
 # Proyecto: Noción estudiantil
 
-## Integrantes
+## Integrantes del equipo
 - Leonardo Michel Domingo Sánchez
 - Daniel Isaac Rosas Mendoza
 - Jose Antonio Tejeda Barrios
