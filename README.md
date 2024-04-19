@@ -1,4 +1,5 @@
-# Hackathon
+# Proyecto: Noción estudiantil
+
 ## Integrantes
 - Leonardo Michel Domingo Sánchez
 - Daniel Isaac Rosas Mendoza
