@@ -24,7 +24,7 @@ Dentro de nuestra propuesta, presentamos las siguientes funcionalidades:
 - **Organización de tareas:** Crear una lista de tareas autónoma que organice muestre las tareas con mayor nivel de reelevancia a cumplir.
 - **Planeación de actividades:** Crear un calendario autónomo que utilice la API de Slack Teams para obtener las fechas de las asignaciones y jerarquizarlas según la fecha de entrega.
 - **Panel de control de notificaciones:** Crear un panel que muestre las últimas notificaciones recibidas por el estudiante en Microsoft Teams.
--**Recuadro de calendarizacion de reuniones:** Crear un apartado para visualizar un calendario de proximas reuniones 
+- **Recuadro de calendarizacion de reuniones:** Crear un apartado para visualizar un calendario de proximas reuniones 
 
 ## Integraciones
 Además de utilizar la API de Notion, estamos utilizando las siguientes integraciones:
@@ -33,4 +33,3 @@ Además de utilizar la API de Notion, estamos utilizando las siguientes integrac
 ## Tecnologías
 - API Notion
 - Javascript
-
