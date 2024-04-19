@@ -35,4 +35,9 @@ Además de utilizar la API de Notion, estamos utilizando las siguientes integrac
 
 ## Planteamientos a futuro
 Como posibles formas de expandir nuestro proyecto a futuro, presentamos las siguientes propuestas:
+<<<<<<< HEAD
 - Recomendar material de estudio: Utilizar un algoritmo que busque palabras clave y con base en ellas, cree recomendaciones para expandir el conocimiento del usuario
+=======
+- **Recomendar material de estudio:** Utilizar un algoritmo que busque palabras clave y con base en ellas, cree recomendaciones para expandir el conocimiento del usuario
+ 
+>>>>>>> ca85f38c69664144a007d0a7515d48996da1fc72
