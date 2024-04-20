@@ -21,10 +21,9 @@ Diseñar una solución que permita a los alumnos usuarios de Slack organizar, je
 
 ## Propuesta de valor
 Dentro de nuestra propuesta, presentamos las siguientes funcionalidades:
-- **Organización de tareas:** Crear una lista de tareas autónoma que organice muestre las tareas con mayor nivel de reelevancia a cumplir.
-- **Planeación de actividades:** Crear un calendario autónomo que utilice la API de Slack Teams para obtener las fechas de las asignaciones y jerarquizarlas según la fecha de entrega.
-- **Panel de control de notificaciones:** Crear un panel que muestre las últimas notificaciones recibidas por el estudiante en Microsoft Teams.
-- **Recuadro de calendarizacion de reuniones:** Crear un apartado para visualizar un calendario de proximas reuniones 
+- **Organización de tareas:** Crear una lista de tareas autónoma que organice muestre las tareas con mayor nivel de reelevancia a cumplir..
+- **Panel de informacion del proyecto:** Crear un espacio con la informacion mas relevante para el desarollo del proyeto.
+- **Recuadro de calendarizacion de reuniones:** Crear un apartado para visualizar un calendario de proximas reuniones. 
 
 ## Integraciones
 Además de utilizar la API de Notion, estamos utilizando las siguientes integraciones:
