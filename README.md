@@ -8,7 +8,7 @@
 - Alberto Puc May
 
 ## Descripción del proyecto
-Decidimos crear un proyecto enfocado en la mejora de productividad a través de canalizar la información más relevante de un proyecto en una plantilla de Notion. Encauzamos nuestro trabajo para todos aquellos equipos colaborativos que hagan uso de  Slack y quieren adaptar sus tareas y reuniones a su "segundo cerebro". 
+Decidimos crear un proyecto enfocado en la mejora de productividad a través de canalizar la información más relevante de un proyecto en una plantilla de Notion. Encauzamos nuestro trabajo para todos aquellos equipos colaborativos que hagan uso de Slack y quieren adaptar sus tareas y reuniones a su "segundo cerebro". 
 
 ## Problemática
 Los trabajos en equipo carecen de una organización efectiva lo que les dificulta el flujo de información para un desarrollo de proyectos eficente, provocado por la perdida de informacion en plataformas de mensajeria.
